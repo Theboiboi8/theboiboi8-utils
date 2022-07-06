@@ -1,29 +1,28 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "theboiboi8-utils",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Theboiboi8's Utilities",
+  "description": "Theboiboi8's Utilities is a utility/complementary mod for Minecraft 1.19.",
   "authors": [
-    "Me!"
+    "Theboiboi8"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/Theboiboi8/theboiboi8-utils"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "MIT",
+  "icon": "assets/utils/logo.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "theboiboi8.utils.Utils"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "utils.mixins.json"
   ],
 
   "depends": {

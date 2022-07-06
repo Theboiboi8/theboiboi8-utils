@@ -1,0 +1,7 @@
+{
+  "item.utils.instasmelt_pick": "Instasmelt Pickaxe",
+  "item.utils.instasmelt_pick.tooltip": "Instantly smelts the ores mined.",
+  "item.utils.netherrack_pick": "Netherrack Pickaxe",
+  "enchantment.utils.frost": "Frost",
+  "enchantment.utils.freeze": "Freeze"
+}

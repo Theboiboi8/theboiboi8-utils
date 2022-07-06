@@ -1,8 +1,8 @@
-# Fabric Example Mod
+# Theboiboi8's Utilities
 
-## Setup
+## Overwiew
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Theboiboi8's Utilities is a utility/complementary mod for Minecraft 1.19. It adds some features and other things that I thought would be good aditions but haven't been added.
 
 ## License
 
